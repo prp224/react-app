@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.46f5c8f5.js",
+    "main.css": "/static/css/main.008e6369.css",
+    "main.js": "/static/js/main.60cae1c2.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Headshot.png": "/static/media/Headshot.b26e3d24419f2edbf518.png",
+    "static/media/prabin_soccer3.jpg": "/static/media/prabin_soccer3.acc2a89a2c71138bf3d5.jpg",
+    "static/media/prabin_soccer2.jpg": "/static/media/prabin_soccer2.4321c3de327dab92e091.jpg",
+    "static/media/sunset.jpeg": "/static/media/sunset.a8c0e1f6944287f61bcf.jpeg",
+    "static/media/prabin_soccer1.jpg": "/static/media/prabin_soccer1.61a9d1d9931e7cf6ae8e.jpg",
+    "static/media/coverPhoto.jpeg": "/static/media/coverPhoto.cf5d79660d1a8831dda5.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.46f5c8f5.js.map": "/static/js/main.46f5c8f5.js.map",
+    "main.008e6369.css.map": "/static/css/main.008e6369.css.map",
+    "main.60cae1c2.js.map": "/static/js/main.60cae1c2.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.46f5c8f5.js"
+    "static/css/main.008e6369.css",
+    "static/js/main.60cae1c2.js"
   ]
 }
